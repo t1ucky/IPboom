@@ -33,6 +33,7 @@
 
 ## 运行示例
 
-![image-20201223084937081](/Users/xyt/Library/Application Support/typora-user-images/image-20201223084937081.png)
+![image](https://github.com/t1ucky/IPboom/blob/master/image-20201223084937081.png)
 
-<img src="/Users/xyt/Library/Application Support/typora-user-images/image-20201223092733102.png" alt="image-20201223092733102" style="zoom:50%;" />
+![image](https://github.com/t1ucky/IPboom/blob/master/user.png)
+
