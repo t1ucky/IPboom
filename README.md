@@ -6,7 +6,7 @@
 
 ##### 扫描模块的输入内容为为IP段，指定端口协议，线程数。
 
-<img src="/Users/xyt/Library/Application Support/typora-user-images/image-20201223093335687.png" alt="image-20201223093335687" style="zoom:50%;" />
+![image](https://github.com/t1ucky/IPboom/blob/master/help.png)
 
 - `-h`帮助
 
